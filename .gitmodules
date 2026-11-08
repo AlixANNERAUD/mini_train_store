@@ -1,0 +1,3 @@
+[submodule "boutique"]
+	path = boutique
+	url = https://github.com/AlixANNERAUD/MiniTrainStore_Boutique.git
