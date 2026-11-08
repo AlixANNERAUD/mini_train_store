@@ -5,7 +5,7 @@ This repository contains the assets, browser extension and shop of the [Mini Tra
 ## Structure
 
 - `ressources/`: Contains assets and resources for the Mini Train Store.
-- `boutique/`: Private submodule ([MiniTrainStore_Boutique](https://github.com/AlixANNERAUD/MiniTrainStore_Boutique)) with the online shop. Clone with `git clone --recurse-submodules`, or run `git submodule update --init` in an existing clone (needs access to the private repository).
+- `boutique/`: Private submodule ([mini_train_store_boutique](https://github.com/AlixANNERAUD/mini_train_store_boutique)) with the online shop. Clone with `git clone --recurse-submodules`, or run `git submodule update --init` in an existing clone (needs access to the private repository).
 - `code/extension/`: Contains the cross-browser extension developed using modern technologies including WXT, Vue 3, Vite, Tailwind CSS, and TypeScript.
 
 ## About
