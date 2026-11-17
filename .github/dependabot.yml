@@ -1,0 +1,15 @@
+# Weekly pull request moving the submodules to the latest commit of their main branch, so the
+# workspace follows boutique, identite and extension.
+version: 2
+updates:
+  - package-ecosystem: gitsubmodule
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+    commit-message:
+      prefix: chore
+      include: scope
+    groups:
+      submodules:
+        patterns: ["*"]
