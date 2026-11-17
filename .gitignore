@@ -1,11 +1,2 @@
-# Secrets and browser profiles (Odoo API key, Leboncoin session cookies)
-.env
-*.env
-.profile/
-
-# Python
-__pycache__/
-
-# Local data of the former Leboncoin scripts in code/
-code/*.json
-code/images/
+# Local files kept outside every repository (data and secrets of the former Leboncoin scripts)
+.local/

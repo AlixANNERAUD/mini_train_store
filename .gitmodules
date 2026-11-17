@@ -1,3 +1,12 @@
 [submodule "boutique"]
 	path = boutique
-	url = https://github.com/MiniTrainStore/mini_train_store_boutique.git
+	url = https://github.com/MiniTrainStore/boutique.git
+	branch = main
+[submodule "identite"]
+	path = identite
+	url = https://github.com/MiniTrainStore/identite.git
+	branch = main
+[submodule "extension"]
+	path = extension
+	url = https://github.com/MiniTrainStore/extension.git
+	branch = main
